@@ -4,11 +4,11 @@ Welcome to Teen Patti Master, the ultimate app designed to enhance your Teen Pat
 
 📱 Features
 
-    Real-Time Notifications: Get instant updates and alerts about gameplay, strategies, and tips.
-    User-Friendly Interface: Navigate easily with a clean and intuitive design.
-    Personalized Experience: Customize settings to suit your gameplay preferences.
-    Secure and Safe: Your data is protected with industry-standard encryption.
-    Comprehensive Game Analysis: Access in-depth statistics and insights to improve your Teen Patti skills.
+    **Real-Time Notifications**: Get instant updates and alerts about gameplay, strategies, and tips.
+    **User-Friendly Interface**: Navigate easily with a clean and intuitive design.
+    **Personalized Experience**: Customize settings to suit your gameplay preferences.
+    **Secure and Safe**: Your data is protected with industry-standard encryption.
+    **Comprehensive Game Analysis**: Access in-depth statistics and insights to improve your Teen Patti skills.
 
 🚀 Demo
 
