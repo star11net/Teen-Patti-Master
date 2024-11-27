@@ -76,4 +76,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 💬 Support
 
-If you encounter any issues or have suggestions for improvement, feel free to open an issue on GitHub or reach out to us at [support@teenpattimaster.com](mailto:support@teenpattimaster.com).
+If you encounter any issues or have suggestions for improvement, feel free to open an issue on GitHub
