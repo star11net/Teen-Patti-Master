@@ -1,6 +1,7 @@
 Teen Patti Master
 
 Welcome to Teen Patti Master, the ultimate app designed to enhance your Teen Patti experience! With a seamless user interface, robust features, and comprehensive tools, our app makes managing, strategizing, and enjoying Teen Patti effortless and fun.
+
 📱 Features
 
     Real-Time Notifications: Get instant updates and alerts about gameplay, strategies, and tips.
