@@ -12,7 +12,7 @@ Welcome to Teen Patti Master, the ultimate app designed to enhance your Teen Pat
 
 🚀 Demo
 
-    Download the App: Install the app directly from the This site was built using [GitHub Pages](https://pages.github.com/).
+    Download the App: Install the app directly from the This site was built using [Teen Patti Master Download]([url](https://paisabhai.in/teen-patti-master-download/)) page
     Sign Up or Log In: Use your credentials to access the app.
     Customize Settings: Adjust notifications, themes, and preferences to your liking.
     Enjoy Teen Patti: Access tools, tips, and strategies to dominate the game.
