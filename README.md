@@ -12,7 +12,6 @@ Welcome to Teen Patti Master, the ultimate app designed to enhance your Teen Pat
 
 🚀 Demo
 
-    ## 🚀 How to Use
 
 1. **Download the App**: Install the app directly from the [Teen Patti Master Download](https://paisabhai.in/teen-patti-master-download/) page.
 2. **Sign Up or Log In**: Use your credentials to access the app.
