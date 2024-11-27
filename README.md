@@ -10,9 +10,9 @@ Welcome to Teen Patti Master, the ultimate app designed to enhance your Teen Pat
     Secure and Safe: Your data is protected with industry-standard encryption.
     Comprehensive Game Analysis: Access in-depth statistics and insights to improve your Teen Patti skills.
 
-🚀 How to Use
+🚀 Demo
 
-    Download the App: Install the app directly from the Google Play Store.
+    Download the App: Install the app directly from the [Teen Patti Master Download](https://paisabhai.in/teen-patti-master-download/) page.
     Sign Up or Log In: Use your credentials to access the app.
     Customize Settings: Adjust notifications, themes, and preferences to your liking.
     Enjoy Teen Patti: Access tools, tips, and strategies to dominate the game.
